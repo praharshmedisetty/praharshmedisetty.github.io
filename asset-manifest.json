@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.25c3841c.chunk.css",
-    "main.js": "/static/js/main.8b89e0c3.chunk.js",
-    "main.js.map": "/static/js/main.8b89e0c3.chunk.js.map",
+    "main.js": "/static/js/main.bb2bd533.chunk.js",
+    "main.js.map": "/static/js/main.bb2bd533.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2781e2dc.js",
     "runtime-main.js.map": "/static/js/runtime-main.2781e2dc.js.map",
-    "static/js/2.3121d9fd.chunk.js": "/static/js/2.3121d9fd.chunk.js",
-    "static/js/2.3121d9fd.chunk.js.map": "/static/js/2.3121d9fd.chunk.js.map",
+    "static/js/2.d8954de9.chunk.js": "/static/js/2.d8954de9.chunk.js",
+    "static/js/2.d8954de9.chunk.js.map": "/static/js/2.d8954de9.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.f7a3852e0b005d09b1812cdaef1317e5.js": "/precache-manifest.f7a3852e0b005d09b1812cdaef1317e5.js",
+    "precache-manifest.b63ef9ddbd6f4abccb53199258c9f1fe.js": "/precache-manifest.b63ef9ddbd6f4abccb53199258c9f1fe.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.25c3841c.chunk.css.map": "/static/css/main.25c3841c.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
@@ -17,6 +17,7 @@
     "static/media/address_image.svg": "/static/media/address_image.16559172.svg",
     "static/media/animated_logo.svg": "/static/media/animated_logo.dcd6dee2.svg",
     "static/media/blogs_image.svg": "/static/media/blogs_image.058eca4c.svg",
+    "static/media/chegg.png": "/static/media/chegg.e0fd1023.png",
     "static/media/cloud_infrastructure.svg": "/static/media/cloud_infrastructure.cacbc42b.svg",
     "static/media/codeInLogo.png": "/static/media/codeInLogo.fee92c18.png",
     "static/media/contactMail.png": "/static/media/contactMail.5f915405.png",
@@ -34,6 +35,7 @@
     "static/media/googleAssistant.svg": "/static/media/googleAssistant.a6addc3f.svg",
     "static/media/ibm_logo.png": "/static/media/ibm_logo.d3fccbe1.png",
     "static/media/jsFramework.svg": "/static/media/jsFramework.5b4a6449.svg",
+    "static/media/ltp.png": "/static/media/ltp.e10d0db8.png",
     "static/media/manOnTable.svg": "/static/media/manOnTable.83ac24fb.svg",
     "static/media/portfolio.gif": "/static/media/portfolio.414dfbd9.gif",
     "static/media/praharsh.jpg": "/static/media/praharsh.1ee40855.jpg",
@@ -49,8 +51,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.2781e2dc.js",
-    "static/js/2.3121d9fd.chunk.js",
+    "static/js/2.d8954de9.chunk.js",
     "static/css/main.25c3841c.chunk.css",
-    "static/js/main.8b89e0c3.chunk.js"
+    "static/js/main.bb2bd533.chunk.js"
   ]
 }

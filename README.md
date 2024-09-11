@@ -1,2 +1,0 @@
-# praharshmedisetty.github.io
- Portfolio
